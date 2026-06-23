@@ -1,28 +1,25 @@
-import { useState, useEffect } from 'react';
+import { useState, useMemo } from 'react';
+import wisataData from '../data/wisataData.json';
 
 export default function RekomendasiWisata() {
   const [kategori, setKategori] = useState('Populer Tinggi');
-  const [kota, setKota] = useState('Semua Kota'); // State baru untuk filter kota
-  const [daftarWisata, setDaftarWisata] = useState([]);
-  const [loading, setLoading] = useState(false);
+  const [kota, setKota] = useState('Semua Kota');
 
-  useEffect(() => {
-    setLoading(true);
-    fetch(`http://localhost:8080/api/rekomendasi?kategori=${encodeURIComponent(kategori)}`)
-      .then((response) => response.json())
-      .then((data) => {
-        setDaftarWisata(data.data || []);
-        setKota('Semua Kota'); // Reset pilihan kota setiap kali kategori diubah
-        setLoading(false);
-      })
-      .catch((error) => {
-        console.error("Gagal mengambil data:", error);
-        setLoading(false);
-      });
+  // Filter data berdasarkan kategori (cluster name) dari JSON lokal
+  const daftarWisata = useMemo(() => {
+    return wisataData.filter(item => item.clusterName === kategori);
   }, [kategori]);
 
   // Ekstraksi otomatis nama-nama kota yang tersedia di klaster saat ini
-  const daftarKotaUnik = ['Semua Kota', ...new Set(daftarWisata.map(item => item.city))].sort();
+  const daftarKotaUnik = useMemo(() => {
+    return ['Semua Kota', ...new Set(daftarWisata.map(item => item.city))].sort();
+  }, [daftarWisata]);
+
+  // Reset kota setiap kali kategori berubah
+  const handleKategoriChange = (newKategori) => {
+    setKategori(newKategori);
+    setKota('Semua Kota');
+  };
 
   // Logika filter: Jika memilih "Semua Kota", tampilkan semua. Jika tidak, cocokkan dengan kotanya.
   const wisataDitampilkan = kota === 'Semua Kota' 
@@ -40,7 +37,7 @@ export default function RekomendasiWisata() {
         <div className="filter-modern" style={{ flexWrap: 'wrap', justifyContent: 'center' }}>
           <div className="filter-group">
             <label>Suasana Liburan: </label>
-            <select value={kategori} onChange={(e) => setKategori(e.target.value)}>
+            <select value={kategori} onChange={(e) => handleKategoriChange(e.target.value)}>
               <option value="Populer Tinggi">🌟 Super Viral & Ramai (Populer Tinggi)</option>
               <option value="Populer Sedang">🏖️ Santai & Aman (Populer Sedang)</option>
               <option value="Cluster Khusus/Niche">🍃 Hidden Gem & Spesifik (Niche)</option>
@@ -64,9 +61,7 @@ export default function RekomendasiWisata() {
           Menampilkan {wisataDitampilkan.length} Rekomendasi di {kota === 'Semua Kota' ? 'Jawa Barat' : kota}
         </h3>
         
-        {loading ? (
-          <div className="loading-spinner">Mencarikan destinasi terbaik...</div>
-        ) : wisataDitampilkan.length === 0 ? (
+        {wisataDitampilkan.length === 0 ? (
           <div className="empty-state">Belum ada data wisata untuk kriteria ini.</div>
         ) : (
           <div className="wisata-grid">

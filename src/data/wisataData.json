@@ -1,0 +1,3122 @@
+[
+  {
+    "id": 1,
+    "title": "Tugu Proklamasi",
+    "categoryName": "Museum",
+    "city": "Karawang",
+    "totalScore": 4.5,
+    "reviewsCount": 1797,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 2,
+    "title": "Curug Putri Palutungan",
+    "categoryName": "Tourist attraction",
+    "city": "Kuningan Regency",
+    "totalScore": 4.6,
+    "reviewsCount": 990,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 3,
+    "title": "LAWANG SURYAKANCANA",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Bogor",
+    "totalScore": 4.6,
+    "reviewsCount": 1233,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 4,
+    "title": "Penangkaran Rusa Situ Gede",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Bogor",
+    "totalScore": 4.4,
+    "reviewsCount": 183,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 5,
+    "title": "Genus Coffee & Boutique",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Bogor",
+    "totalScore": 4.8,
+    "reviewsCount": 788,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 6,
+    "title": "Marcopolo Water Adventure Bogor",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Bogor",
+    "totalScore": 4.5,
+    "reviewsCount": 7223,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 7,
+    "title": "Rivera Outbound & Edutainment",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Bogor",
+    "totalScore": 4.6,
+    "reviewsCount": 1346,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 8,
+    "title": "Kebun Raya Bogor",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Bogor",
+    "totalScore": 4.7,
+    "reviewsCount": 104142,
+    "cluster": 2,
+    "clusterName": "Populer Tinggi"
+  },
+  {
+    "id": 9,
+    "title": "Kampung Labirin",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Bogor",
+    "totalScore": 4.6,
+    "reviewsCount": 116,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 10,
+    "title": "Tugu Kujang Bogor",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Bogor",
+    "totalScore": 4.7,
+    "reviewsCount": 14815,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 11,
+    "title": "Taman Meksiko",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Bogor",
+    "totalScore": 4.6,
+    "reviewsCount": 1995,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 12,
+    "title": "ridwan guide bogor",
+    "categoryName": "Penyelenggara Perjalanan",
+    "city": "Kota Bogor",
+    "totalScore": 4.9,
+    "reviewsCount": 193,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 13,
+    "title": "Museum Zoologi",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Bogor",
+    "totalScore": 4.5,
+    "reviewsCount": 6790,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 14,
+    "title": "Museum & Monumen PETA",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Bogor",
+    "totalScore": 4.6,
+    "reviewsCount": 1725,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 15,
+    "title": "Museum Tanah dan Pertanian",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Bogor",
+    "totalScore": 4.7,
+    "reviewsCount": 823,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 16,
+    "title": "Sumber Karya Indah - SKI Bogor",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Bogor",
+    "totalScore": 4.3,
+    "reviewsCount": 4558,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 17,
+    "title": "Hopa Place",
+    "categoryName": "Restoran",
+    "city": "Kota Bogor",
+    "totalScore": 4.8,
+    "reviewsCount": 2220,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 18,
+    "title": "Adamar Kitchen and Lounge",
+    "categoryName": "Restoran",
+    "city": "Kota Bogor",
+    "totalScore": 4.7,
+    "reviewsCount": 4349,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 19,
+    "title": "HAGU Coffee & Space",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Bogor",
+    "totalScore": 4.6,
+    "reviewsCount": 1253,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 20,
+    "title": "Billiard Pangrango",
+    "categoryName": "Tempat Biliar",
+    "city": "Kota Bogor",
+    "totalScore": 4.2,
+    "reviewsCount": 409,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 21,
+    "title": "Roofpark Cafe & Restaurant Bogor",
+    "categoryName": "Kafe",
+    "city": "Kota Bogor",
+    "totalScore": 4.5,
+    "reviewsCount": 3446,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 22,
+    "title": "Raindear Coffee House",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Bogor",
+    "totalScore": 4.9,
+    "reviewsCount": 3565,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 23,
+    "title": "Hujan Rempah",
+    "categoryName": "Restoran",
+    "city": "Kota Bogor",
+    "totalScore": 4.8,
+    "reviewsCount": 4115,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 24,
+    "title": "Kuntum Farmfield",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Bogor",
+    "totalScore": 4.5,
+    "reviewsCount": 5460,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 25,
+    "title": "Kampung Durian Rancamaya",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Bogor",
+    "totalScore": 4.1,
+    "reviewsCount": 222,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 26,
+    "title": "The Jungle Waterpark Bogor",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Bogor",
+    "totalScore": 4.5,
+    "reviewsCount": 26995,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 27,
+    "title": "Saung Eling",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Bogor",
+    "totalScore": 4.5,
+    "reviewsCount": 345,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 28,
+    "title": "Himam Tour - Travel Umroh Bogor",
+    "categoryName": "Biro Perjalanan dan Wisata",
+    "city": "Kota Bogor",
+    "totalScore": 5,
+    "reviewsCount": 113,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 29,
+    "title": "Hutan Hujan (Coffee Shop)",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Bogor",
+    "totalScore": 4.8,
+    "reviewsCount": 862,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 30,
+    "title": "Sisi Barat Coffee River View",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Bogor",
+    "totalScore": 4.5,
+    "reviewsCount": 818,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 31,
+    "title": "dokter backpacker - TRAVEL MURAH LIBURAN KE LUAR NEGERI",
+    "categoryName": "Biro Perjalanan dan Wisata",
+    "city": "Kota Bogor",
+    "totalScore": 5,
+    "reviewsCount": 135,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 32,
+    "title": "ZAMA HOUSE",
+    "categoryName": "Kafe",
+    "city": "Kota Bogor",
+    "totalScore": 4.9,
+    "reviewsCount": 855,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 33,
+    "title": "Kebin Coffee & Eatery",
+    "categoryName": "Kafe",
+    "city": "Kota Bogor",
+    "totalScore": 4.7,
+    "reviewsCount": 1450,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 34,
+    "title": "Teras Leuweung Awi",
+    "categoryName": "Kafe",
+    "city": "Kota Bogor",
+    "totalScore": 4.5,
+    "reviewsCount": 545,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 35,
+    "title": "Starbucks Coffee",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Bogor",
+    "totalScore": 4.6,
+    "reviewsCount": 2227,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 36,
+    "title": "De'Jati Coffee Garden",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Bogor",
+    "totalScore": 4.5,
+    "reviewsCount": 1013,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 37,
+    "title": "Museum Balai Kirti",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Bogor",
+    "totalScore": 4.7,
+    "reviewsCount": 1055,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 38,
+    "title": "Museum Nasional Sejarah Alam Indonesia",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Bogor",
+    "totalScore": 4.6,
+    "reviewsCount": 1344,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 39,
+    "title": "Devoyage Bogor",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Bogor",
+    "totalScore": 4.1,
+    "reviewsCount": 15556,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 40,
+    "title": "Kedai Surabi Duren",
+    "categoryName": "Restoran",
+    "city": "Kota Bogor",
+    "totalScore": 4.6,
+    "reviewsCount": 269,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 41,
+    "title": "Wr/rm kopi & lesehan bang paul puncak habibi",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Sukabumi",
+    "totalScore": 4.6,
+    "reviewsCount": 2138,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 42,
+    "title": "Pantai Pelabuhan Ratu – Wisata Pantai Sukabumi",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Palabuhanratu",
+    "totalScore": 4.6,
+    "reviewsCount": 4359,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 43,
+    "title": "Puncak Habibie wr/lesehan PUSPA",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Sukabumi",
+    "totalScore": 4.7,
+    "reviewsCount": 252,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 44,
+    "title": "Wisata Alam Pantai Sukawayana",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Sukabumi",
+    "totalScore": 4.4,
+    "reviewsCount": 330,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 45,
+    "title": "Pantai Palangpang Geopark Ciletuh Sukabumi",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Sukabumi",
+    "totalScore": 4.5,
+    "reviewsCount": 1902,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 46,
+    "title": "Geopark Ciletuh",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Sukabumi",
+    "totalScore": 4.6,
+    "reviewsCount": 8071,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 47,
+    "title": "Pantai Pasir Putih (P. Kunti)",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Sukabumi",
+    "totalScore": 4.6,
+    "reviewsCount": 125,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 48,
+    "title": "Taman Bumi Ciletuh Palabuhanratu",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Sukabumi",
+    "totalScore": 4.5,
+    "reviewsCount": 2034,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 49,
+    "title": "Pantai Karang Sari",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Sukabumi",
+    "totalScore": 4.4,
+    "reviewsCount": 268,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 50,
+    "title": "Desa Wisata Hanjeli ᮓᮦᮞ ᮝᮤᮞᮒ ᮠᮔ᮪ᮏᮨᮜᮤ",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Sukabumi",
+    "totalScore": 4.7,
+    "reviewsCount": 104,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 51,
+    "title": "Curug Sodong",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Sukabumi",
+    "totalScore": 4.6,
+    "reviewsCount": 5093,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 52,
+    "title": "Pantai Pelabuhan Ratu",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Sukabumi",
+    "totalScore": 4.7,
+    "reviewsCount": 1050,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 53,
+    "title": "Pantai Loji Pelabuhan Ratu",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Sukabumi",
+    "totalScore": 4.3,
+    "reviewsCount": 298,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 54,
+    "title": "Pantai Cikembang",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Sukabumi",
+    "totalScore": 4.4,
+    "reviewsCount": 503,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 55,
+    "title": "Bukit Paralayang Ciletuh",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Sukabumi",
+    "totalScore": 4.7,
+    "reviewsCount": 202,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 56,
+    "title": "Gunung Tumpeng",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Sukabumi",
+    "totalScore": 4.5,
+    "reviewsCount": 128,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 57,
+    "title": "Tanjakan Dini",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Sukabumi",
+    "totalScore": 4.9,
+    "reviewsCount": 215,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 58,
+    "title": "Bukit Durian Sagara Sukamaju – Wisata Alam",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Sukabumi",
+    "totalScore": 4.4,
+    "reviewsCount": 996,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 59,
+    "title": "Pondok Astika",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Sukabumi",
+    "totalScore": 4.4,
+    "reviewsCount": 3524,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 60,
+    "title": "Curug Cimarinjung",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Sukabumi",
+    "totalScore": 4.6,
+    "reviewsCount": 2885,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 61,
+    "title": "Bukit Sunset Hill VIlla Resto n Cafe",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Sukabumi",
+    "totalScore": 4.4,
+    "reviewsCount": 881,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 62,
+    "title": "Curug Cikanteh",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Sukabumi",
+    "totalScore": 4.7,
+    "reviewsCount": 1167,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 63,
+    "title": "Gardu Pandang Puncak Gebang",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Sukabumi",
+    "totalScore": 4.6,
+    "reviewsCount": 1378,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 64,
+    "title": "Curug Larangan",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Sukabumi",
+    "totalScore": 4.8,
+    "reviewsCount": 455,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 65,
+    "title": "Vihara Nam Hai Kwan Se Im Pu Sa",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Sukabumi",
+    "totalScore": 4.6,
+    "reviewsCount": 1774,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 66,
+    "title": "Puncak Buluh - Jampang Sukabumi",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Sukabumi",
+    "totalScore": 4.3,
+    "reviewsCount": 372,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 67,
+    "title": "Villa Geopark Ciletuh Sukabumi",
+    "categoryName": "Hotel",
+    "city": "Kabupaten Sukabumi",
+    "totalScore": 4.5,
+    "reviewsCount": 136,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 68,
+    "title": "Puncak Darma Geopark",
+    "categoryName": "Taman",
+    "city": "Kabupaten Sukabumi",
+    "totalScore": 4.7,
+    "reviewsCount": 1320,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 69,
+    "title": "Homestay abreho tomboy",
+    "categoryName": "Biro Perjalanan dan Wisata",
+    "city": "Kabupaten Sukabumi",
+    "totalScore": 4.6,
+    "reviewsCount": 157,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 70,
+    "title": "Villa Familly pantai citepus pelabuhanratu",
+    "categoryName": "Vila",
+    "city": "Kabupaten Sukabumi",
+    "totalScore": 4,
+    "reviewsCount": 120,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 71,
+    "title": "Rumah Kopi Sagara",
+    "categoryName": "Kedai Kopi",
+    "city": "Kabupaten Sukabumi",
+    "totalScore": 4.6,
+    "reviewsCount": 189,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 72,
+    "title": "VILLA THE NUGROS",
+    "categoryName": "Hotel",
+    "city": "Kabupaten Sukabumi",
+    "totalScore": 5,
+    "reviewsCount": 3716,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 73,
+    "title": "Taman Kota Bekasi",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Bks",
+    "totalScore": 4.5,
+    "reviewsCount": 1834,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 74,
+    "title": "Kelenteng Hok Lay Kiong",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Bks",
+    "totalScore": 4.7,
+    "reviewsCount": 929,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 75,
+    "title": "Taman Hijau Pekayon",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Bks",
+    "totalScore": 4.4,
+    "reviewsCount": 1711,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 76,
+    "title": "Taman Mahoni",
+    "categoryName": "Taman Kota",
+    "city": "Kota Bks",
+    "totalScore": 4.7,
+    "reviewsCount": 115,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 77,
+    "title": "Widarin Vacation by PT Wisatapreneur Daring Indonesia",
+    "categoryName": "Biro Wisata",
+    "city": "Kota Bks",
+    "totalScore": 4.9,
+    "reviewsCount": 2441,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 78,
+    "title": "Trans Snow World Bekasi",
+    "categoryName": "Wahana Bermain Salju Dalam Ruangan",
+    "city": "Kota Bks",
+    "totalScore": 4.4,
+    "reviewsCount": 7022,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 79,
+    "title": "Galaxy Tirtamas Club",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Bks",
+    "totalScore": 4.3,
+    "reviewsCount": 4886,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 80,
+    "title": "Koma Junkyard",
+    "categoryName": "Tempat Minum Bir Luar Ruangan",
+    "city": "Kota Bks",
+    "totalScore": 4.4,
+    "reviewsCount": 3803,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 81,
+    "title": "Mattea Social Space - Bekasi",
+    "categoryName": "Bistro",
+    "city": "Kota Bks",
+    "totalScore": 4.8,
+    "reviewsCount": 2228,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 82,
+    "title": "Galleri Kopi",
+    "categoryName": "Tempat acara",
+    "city": "Kota Bks",
+    "totalScore": 4.9,
+    "reviewsCount": 215,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 83,
+    "title": "Lagoon Avenue Mall Bekasi",
+    "categoryName": "Pusat Perbelanjaan",
+    "city": "Kota Bks",
+    "totalScore": 4.4,
+    "reviewsCount": 10110,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 84,
+    "title": "Cafe Tutur Bekasi",
+    "categoryName": "Kafe",
+    "city": "Kota Bks",
+    "totalScore": 4.9,
+    "reviewsCount": 3766,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 85,
+    "title": "Halal Holidays id : Paket Wisata Halal Dunia dan Umroh Plus",
+    "categoryName": "Biro Perjalanan dan Wisata",
+    "city": "Kota Bks",
+    "totalScore": 5,
+    "reviewsCount": 161,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 86,
+    "title": "Meetcation Tour & Travel",
+    "categoryName": "Biro Perjalanan dan Wisata",
+    "city": "Kota Bks",
+    "totalScore": 4.9,
+    "reviewsCount": 173,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 87,
+    "title": "Avenir Tour and Travel",
+    "categoryName": "Biro Perjalanan dan Wisata",
+    "city": "Kota Bks",
+    "totalScore": 4.9,
+    "reviewsCount": 1341,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 88,
+    "title": "Grand Galaxy Park",
+    "categoryName": "Pusat Perbelanjaan",
+    "city": "Kota Bks",
+    "totalScore": 4.5,
+    "reviewsCount": 29046,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 89,
+    "title": "Tanatap Coffee Bekasi",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Bks",
+    "totalScore": 4.8,
+    "reviewsCount": 1463,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 90,
+    "title": "Yusra Inn Hotel",
+    "categoryName": "Hotel",
+    "city": "Kota Bks",
+    "totalScore": 4.3,
+    "reviewsCount": 3054,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 91,
+    "title": "Kedai Maniac",
+    "categoryName": "Kafe",
+    "city": "Kota Bks",
+    "totalScore": 4.4,
+    "reviewsCount": 791,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 92,
+    "title": "KOZI Coffee Bekasi",
+    "categoryName": "Kafe",
+    "city": "Kota Bks",
+    "totalScore": 4.7,
+    "reviewsCount": 827,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 93,
+    "title": "Bomber Burger - Bekasi",
+    "categoryName": "Restoran",
+    "city": "Kota Bks",
+    "totalScore": 4.8,
+    "reviewsCount": 3192,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 94,
+    "title": "Blackswan Coffee House",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Bks",
+    "totalScore": 4.4,
+    "reviewsCount": 767,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 95,
+    "title": "Teras Jahe - Pekayon",
+    "categoryName": "Kafe",
+    "city": "Kota Bks",
+    "totalScore": 4.7,
+    "reviewsCount": 328,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 96,
+    "title": "BRIDGE CLUB KARAOKE BILLIARD",
+    "categoryName": "Klub Disko",
+    "city": "Kota Bks",
+    "totalScore": 4.4,
+    "reviewsCount": 602,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 97,
+    "title": "Playtopia Pakuwon Mall Bekasi",
+    "categoryName": "Taman bermain",
+    "city": "Kota Bks",
+    "totalScore": 4.8,
+    "reviewsCount": 242,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 98,
+    "title": "Sastra Kopi",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Bks",
+    "totalScore": 4.7,
+    "reviewsCount": 317,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 99,
+    "title": "Madam Sichuan Pakuwon Bekasi",
+    "categoryName": "Restoran",
+    "city": "Kota Bks",
+    "totalScore": 4.9,
+    "reviewsCount": 683,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 100,
+    "title": "Tahu Gejrot Galaxy",
+    "categoryName": "Restoran",
+    "city": "Kota Bks",
+    "totalScore": 4.5,
+    "reviewsCount": 252,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 101,
+    "title": "Roji Ramen Revo Mall Bekasi",
+    "categoryName": "Restoran Ramen",
+    "city": "Kota Bks",
+    "totalScore": 4.9,
+    "reviewsCount": 1412,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 102,
+    "title": "FIRST FROZEN KINGDOM - Revo Mall",
+    "categoryName": "Wahana Bermain Salju Dalam Ruangan",
+    "city": "Kota Bks",
+    "totalScore": 4.3,
+    "reviewsCount": 4100,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 103,
+    "title": "Kopi Bajawa Flores NTT",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Bks",
+    "totalScore": 4.7,
+    "reviewsCount": 1534,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 104,
+    "title": "Martabak Sinar Senayan Pekayon jaya, Bekasi Selatan",
+    "categoryName": "Restoran Martabak",
+    "city": "Kota Bks",
+    "totalScore": 4.7,
+    "reviewsCount": 313,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 105,
+    "title": "Yard Coffee",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Bks",
+    "totalScore": 4.8,
+    "reviewsCount": 687,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 106,
+    "title": "Seafood Tigadara Pekayon",
+    "categoryName": "Restoran Seafood",
+    "city": "Kota Bks",
+    "totalScore": 4.6,
+    "reviewsCount": 2123,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 107,
+    "title": "Ebiga Jjamppong Pakuwon Mall Bekasi",
+    "categoryName": "Restoran Korea",
+    "city": "Kota Bks",
+    "totalScore": 4.9,
+    "reviewsCount": 814,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 108,
+    "title": "Karnivor Pakuwon Mall Bekasi",
+    "categoryName": "Restoran Steak",
+    "city": "Kota Bks",
+    "totalScore": 4.9,
+    "reviewsCount": 792,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 109,
+    "title": "Kopi Tala Galaxy",
+    "categoryName": "Kafe",
+    "city": "Kota Bks",
+    "totalScore": 4.7,
+    "reviewsCount": 587,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 110,
+    "title": "Kopi Koup+",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Bks",
+    "totalScore": 4.7,
+    "reviewsCount": 593,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 111,
+    "title": "Phở Ba Bà - Pakuwon Mall Bekasi",
+    "categoryName": "Restoran Pho",
+    "city": "Kota Bks",
+    "totalScore": 5,
+    "reviewsCount": 2539,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 112,
+    "title": "Malamig Coffee",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Bks",
+    "totalScore": 4.8,
+    "reviewsCount": 203,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 113,
+    "title": "moeda coffee",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Bks",
+    "totalScore": 4.8,
+    "reviewsCount": 189,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 114,
+    "title": "Sop Janda Jawa Sunda",
+    "categoryName": "Restoran",
+    "city": "Kota Bks",
+    "totalScore": 4.3,
+    "reviewsCount": 2013,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 115,
+    "title": "Bebek Ella - Bekasi Selatan",
+    "categoryName": "Restoran Jawa Timur",
+    "city": "Kota Bks",
+    "totalScore": 4.3,
+    "reviewsCount": 1772,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 116,
+    "title": "Four Points by Sheraton Bekasi",
+    "categoryName": "Hotel",
+    "city": "Kota Bks",
+    "totalScore": 4.9,
+    "reviewsCount": 259,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 117,
+    "title": "Botanique Lounge | Bekasi",
+    "categoryName": "Restoran",
+    "city": "Kota Bks",
+    "totalScore": 4.9,
+    "reviewsCount": 372,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 118,
+    "title": "Situ Gede Pintu Masuk",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.4,
+    "reviewsCount": 172,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 119,
+    "title": "Taman Rekreasi Mangkubumi Park",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.5,
+    "reviewsCount": 1609,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 120,
+    "title": "Taman Bermain Dadaha",
+    "categoryName": "Taman",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.5,
+    "reviewsCount": 112,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 121,
+    "title": "Pasir Pataya Tasikmalaya",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.3,
+    "reviewsCount": 631,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 122,
+    "title": "Tugu Asmaul Husna",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.5,
+    "reviewsCount": 432,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 123,
+    "title": "Alun-Alun Kota Tasikmalaya",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.6,
+    "reviewsCount": 9119,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 124,
+    "title": "Kafe Balarea Kopi",
+    "categoryName": "Kafe",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.6,
+    "reviewsCount": 339,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 125,
+    "title": "ROEMPI-Awipari",
+    "categoryName": "Kafe",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.5,
+    "reviewsCount": 231,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 126,
+    "title": "Kedai Rz",
+    "categoryName": "Kedai Kopi",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.3,
+    "reviewsCount": 184,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 127,
+    "title": "Rumah Makan Sate Condong",
+    "categoryName": "Restoran Sate",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.5,
+    "reviewsCount": 414,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 128,
+    "title": "Cangkang Kopi",
+    "categoryName": "Kafe",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.5,
+    "reviewsCount": 669,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 129,
+    "title": "Roemah",
+    "categoryName": "Kafe",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.7,
+    "reviewsCount": 178,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 130,
+    "title": "Today's Coffee",
+    "categoryName": "Kedai Kopi",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.6,
+    "reviewsCount": 291,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 131,
+    "title": "PA-Brick Space",
+    "categoryName": "Kafe",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.6,
+    "reviewsCount": 162,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 132,
+    "title": "Narassi Coffee",
+    "categoryName": "Kedai Kopi",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.7,
+    "reviewsCount": 546,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 133,
+    "title": "Taruh Coffee Roastery",
+    "categoryName": "Kedai Kopi",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.7,
+    "reviewsCount": 236,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 134,
+    "title": "911 Coffee",
+    "categoryName": "Kedai Kopi",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.3,
+    "reviewsCount": 221,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 135,
+    "title": "Warung Tepi Rel",
+    "categoryName": "Kafe",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.5,
+    "reviewsCount": 388,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 136,
+    "title": "Kopi Kenangan - Ruko Martadinata Tasikmalaya",
+    "categoryName": "Kedai Kopi",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.7,
+    "reviewsCount": 216,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 137,
+    "title": "Bubur Biasa Malam",
+    "categoryName": "Restoran Bubur",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.6,
+    "reviewsCount": 413,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 138,
+    "title": "Kopi Siloka - Indihiang",
+    "categoryName": "Kedai Kopi",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.5,
+    "reviewsCount": 987,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 139,
+    "title": "Yo Tours & Travel",
+    "categoryName": "Biro Perjalanan dan Wisata",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.9,
+    "reviewsCount": 294,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 140,
+    "title": "MAYASI RANCABANGO",
+    "categoryName": "Restoran",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.5,
+    "reviewsCount": 691,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 141,
+    "title": "Caspia Coffee",
+    "categoryName": "Kedai Kopi",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.9,
+    "reviewsCount": 746,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 142,
+    "title": "Kopi Rempah Trem, Tasikmalaya",
+    "categoryName": "Kedai Kopi",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.5,
+    "reviewsCount": 628,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 143,
+    "title": "Pull and Shot Coffee",
+    "categoryName": "Kedai Kopi",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.8,
+    "reviewsCount": 787,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 144,
+    "title": "KARMA COFFEE TASIKMALAYA",
+    "categoryName": "Kedai Kopi",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.7,
+    "reviewsCount": 131,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 145,
+    "title": "Rumah Kopi Baretto",
+    "categoryName": "Kedai Kopi",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.5,
+    "reviewsCount": 857,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 146,
+    "title": "Kupat Tahu Taman Putra Simpang Lima",
+    "categoryName": "Restoran Tahu",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.5,
+    "reviewsCount": 241,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 147,
+    "title": "SOMETHINK COFFEE",
+    "categoryName": "Kedai Kopi",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.7,
+    "reviewsCount": 121,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 148,
+    "title": "Warung Sate Madura H. Saipuddin",
+    "categoryName": "Restoran Sate",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.6,
+    "reviewsCount": 464,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 149,
+    "title": "Warung Ketan Susu WKS",
+    "categoryName": "Kafe",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.5,
+    "reviewsCount": 1069,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 150,
+    "title": "TOMORO COFFEE - Martadinata Tasikmalaya",
+    "categoryName": "Kedai Kopi",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.9,
+    "reviewsCount": 230,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 151,
+    "title": "Soulja",
+    "categoryName": "Kedai Kopi",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 5,
+    "reviewsCount": 123,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 152,
+    "title": "Kebon Djati Eatery",
+    "categoryName": "Restoran Keluarga",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.5,
+    "reviewsCount": 1363,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 153,
+    "title": "Kopitiam 242",
+    "categoryName": "Kedai Kopi",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.5,
+    "reviewsCount": 338,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 154,
+    "title": "Citebaks",
+    "categoryName": "Restoran Martabak",
+    "city": "Kab. Tasikmalaya",
+    "totalScore": 4.5,
+    "reviewsCount": 319,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 155,
+    "title": "Sate Senayan, Cinere",
+    "categoryName": "Restoran Indonesia",
+    "city": "Kota Depok",
+    "totalScore": 4.4,
+    "reviewsCount": 881,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 156,
+    "title": "Setu cilangkap",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Depok",
+    "totalScore": 4.5,
+    "reviewsCount": 238,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 157,
+    "title": "Algontory stable dpk",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Depok",
+    "totalScore": 4.7,
+    "reviewsCount": 104,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 158,
+    "title": "Studio Alam TVRI Depok Jawa Barat",
+    "categoryName": "Studio film",
+    "city": "Kota Depok",
+    "totalScore": 4.3,
+    "reviewsCount": 4013,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 159,
+    "title": "Kopi Kenangan - Ruko Gandul",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Depok",
+    "totalScore": 4.5,
+    "reviewsCount": 417,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 160,
+    "title": "Danau Kenanga",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Depok",
+    "totalScore": 4.7,
+    "reviewsCount": 1397,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 161,
+    "title": "Taman Pemuda Pratama",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Depok",
+    "totalScore": 4.5,
+    "reviewsCount": 3150,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 162,
+    "title": "Walking Drums Margonda Depok",
+    "categoryName": "Kafe",
+    "city": "Kota Depok",
+    "totalScore": 4.5,
+    "reviewsCount": 2096,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 163,
+    "title": "ARTiVATOR",
+    "categoryName": "Tempat acara",
+    "city": "Kota Depok",
+    "totalScore": 4.3,
+    "reviewsCount": 1855,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 164,
+    "title": "Bagi Kopi Margonda Raya",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Depok",
+    "totalScore": 4.7,
+    "reviewsCount": 1502,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 165,
+    "title": "HANGGAR KOPI - Cafe dan Coffee Roastery",
+    "categoryName": "Tempat acara",
+    "city": "Kota Depok",
+    "totalScore": 4.6,
+    "reviewsCount": 502,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 166,
+    "title": "Knanga Kulineri",
+    "categoryName": "Restoran",
+    "city": "Kota Depok",
+    "totalScore": 4.4,
+    "reviewsCount": 1094,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 167,
+    "title": "Warnoes Margonda",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Depok",
+    "totalScore": 4.7,
+    "reviewsCount": 632,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 168,
+    "title": "LOUIS CAFE",
+    "categoryName": "Kafe",
+    "city": "Kota Depok",
+    "totalScore": 4.6,
+    "reviewsCount": 1925,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 169,
+    "title": "Dopamine Avenue",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Depok",
+    "totalScore": 4.5,
+    "reviewsCount": 505,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 170,
+    "title": "Hidden Haus Space",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Depok",
+    "totalScore": 4.6,
+    "reviewsCount": 481,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 171,
+    "title": "Djournal Coffee - Margo City",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Depok",
+    "totalScore": 4.8,
+    "reviewsCount": 854,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 172,
+    "title": "oi coffee & eatery",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Depok",
+    "totalScore": 4.9,
+    "reviewsCount": 2676,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 173,
+    "title": "Kampung Kecil Depok Sawangan",
+    "categoryName": "Restoran",
+    "city": "Kota Depok",
+    "totalScore": 4.7,
+    "reviewsCount": 7580,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 174,
+    "title": "D'Kandang Amazing Farm",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Depok",
+    "totalScore": 4.3,
+    "reviewsCount": 7170,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 175,
+    "title": "Situ Sidomukti",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Depok",
+    "totalScore": 4.3,
+    "reviewsCount": 591,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 176,
+    "title": "Kolam Renang Putri Duyung",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Depok",
+    "totalScore": 4.5,
+    "reviewsCount": 1107,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 177,
+    "title": "Taman Mekarsari",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Depok",
+    "totalScore": 4.5,
+    "reviewsCount": 1109,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 178,
+    "title": "Putri Duyung Waterboom",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Depok",
+    "totalScore": 4.5,
+    "reviewsCount": 2915,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 179,
+    "title": "Green Lake View Waterpark",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Depok",
+    "totalScore": 4.3,
+    "reviewsCount": 3746,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 180,
+    "title": "Canon Billiard",
+    "categoryName": "Tempat Biliar",
+    "city": "Kota Depok",
+    "totalScore": 4.4,
+    "reviewsCount": 940,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 181,
+    "title": "PT Ventura Semesta Wisata (Ventour)",
+    "categoryName": "Biro Perjalanan dan Wisata",
+    "city": "Kota Depok",
+    "totalScore": 4.9,
+    "reviewsCount": 2230,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 182,
+    "title": "Fat Bubble Margonda",
+    "categoryName": "Restoran Hidangan Penutup",
+    "city": "Kota Depok",
+    "totalScore": 4.5,
+    "reviewsCount": 2405,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 183,
+    "title": "Warnoes Juanda",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Depok",
+    "totalScore": 4.6,
+    "reviewsCount": 840,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 184,
+    "title": "Bajawa Flores NTT Depok",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Depok",
+    "totalScore": 4.7,
+    "reviewsCount": 2684,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 185,
+    "title": "INTERAKSI SPACE",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Depok",
+    "totalScore": 4.5,
+    "reviewsCount": 1737,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 186,
+    "title": "Ruangnamu",
+    "categoryName": "Kafe",
+    "city": "Kota Depok",
+    "totalScore": 4.7,
+    "reviewsCount": 1446,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 187,
+    "title": "Starbucks Coffee - Margonda Raya",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Depok",
+    "totalScore": 4.6,
+    "reviewsCount": 1974,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 188,
+    "title": "Starbucks Coffee - Margo City",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Depok",
+    "totalScore": 4.6,
+    "reviewsCount": 2038,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 189,
+    "title": "Situ Sawangan Bojongsari",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Depok",
+    "totalScore": 4.3,
+    "reviewsCount": 309,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 190,
+    "title": "Ol’ Pops Coffee Cinangka",
+    "categoryName": "Kafe",
+    "city": "Kota Depok",
+    "totalScore": 4.6,
+    "reviewsCount": 1320,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 191,
+    "title": "Kopi Per Hari (Kopi/Hari) Pengasinan",
+    "categoryName": "Kafe",
+    "city": "Kota Depok",
+    "totalScore": 4.9,
+    "reviewsCount": 1242,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 192,
+    "title": "Goeboek Bamboe Cinangka",
+    "categoryName": "Restoran Seafood",
+    "city": "Kota Depok",
+    "totalScore": 4.4,
+    "reviewsCount": 1373,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 193,
+    "title": "Gemintang",
+    "categoryName": "Restoran Keluarga",
+    "city": "Kota Depok",
+    "totalScore": 4.9,
+    "reviewsCount": 1516,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 194,
+    "title": "Ramen Giant Cijerah",
+    "categoryName": "Restoran Ramen",
+    "city": "Kota Cimahi",
+    "totalScore": 4.3,
+    "reviewsCount": 1171,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 195,
+    "title": "SEBLAK TEH BETTY CIMAHI",
+    "categoryName": "Restoran seblak",
+    "city": "Kota Cimahi",
+    "totalScore": 4.6,
+    "reviewsCount": 484,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 196,
+    "title": "Indomaret",
+    "categoryName": "Minimarket",
+    "city": "Kota Cimahi",
+    "totalScore": 4,
+    "reviewsCount": 139,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 197,
+    "title": "Momoyo - Cijerah Melong Asih",
+    "categoryName": "Toko Es Krim",
+    "city": "Kota Bandung",
+    "totalScore": 4.6,
+    "reviewsCount": 273,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 198,
+    "title": "Taman Kartini",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Cimahi",
+    "totalScore": 4.3,
+    "reviewsCount": 4775,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 199,
+    "title": "Masjid Jami' Al Baakhirah",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Cimahi",
+    "totalScore": 4.8,
+    "reviewsCount": 1093,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 200,
+    "title": "Bunderan Leuwigajah",
+    "categoryName": "Taman Kota",
+    "city": "Kota Cimahi",
+    "totalScore": 4.2,
+    "reviewsCount": 2496,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 201,
+    "title": "Kopi Insight Cabang Baros Cimahi",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Cimahi",
+    "totalScore": 4.9,
+    "reviewsCount": 3604,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 202,
+    "title": "Kampung Cireundeu",
+    "categoryName": "Pusat kebudayaan",
+    "city": "Kota Cimahi",
+    "totalScore": 4.7,
+    "reviewsCount": 508,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 203,
+    "title": "Alfamart Nanjung Cibodas",
+    "categoryName": "Minimarket",
+    "city": "Kota Cimahi",
+    "totalScore": 3.9,
+    "reviewsCount": 143,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 204,
+    "title": "Venus Cimahi",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Cimahi",
+    "totalScore": 4.6,
+    "reviewsCount": 1158,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 205,
+    "title": "Kampung Buyut Cipageran (Kabuci) Asih Putera",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Cimahi",
+    "totalScore": 4.5,
+    "reviewsCount": 2712,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 206,
+    "title": "Plaza Taman Rakyat Pemkot Cimahi",
+    "categoryName": "Taman",
+    "city": "Kota Cimahi",
+    "totalScore": 4.3,
+    "reviewsCount": 156,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 207,
+    "title": "Gadespace Cimahi",
+    "categoryName": "Tempat acara",
+    "city": "Kota Cimahi",
+    "totalScore": 4.9,
+    "reviewsCount": 135,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 208,
+    "title": "Alun alun cimahi",
+    "categoryName": "Taman",
+    "city": "Kota Cimahi",
+    "totalScore": 4.8,
+    "reviewsCount": 193,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 209,
+    "title": "Joffi Ramen, Dimsum - Cimahi Kota",
+    "categoryName": "Restoran Ramen",
+    "city": "Kota Cimahi",
+    "totalScore": 4.7,
+    "reviewsCount": 1014,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 210,
+    "title": "TEMU KITA COFFEE TERRACE",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Cimahi",
+    "totalScore": 4.6,
+    "reviewsCount": 430,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 211,
+    "title": "Neka Kopi",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Cimahi",
+    "totalScore": 4.2,
+    "reviewsCount": 2230,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 212,
+    "title": "Kopi Calf To Go Cimahi",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Cimahi",
+    "totalScore": 4.8,
+    "reviewsCount": 178,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 213,
+    "title": "Huna Ruma",
+    "categoryName": "Kafe",
+    "city": "Kota Cimahi",
+    "totalScore": 4.8,
+    "reviewsCount": 104,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 214,
+    "title": "EIGER Adventure Store Raya Barat Cimahi",
+    "categoryName": "Toko Olahraga Luar Ruangan",
+    "city": "Kota Cimahi",
+    "totalScore": 4.9,
+    "reviewsCount": 358,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 215,
+    "title": "DAHAN COFFEE BACKYARD",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Cimahi",
+    "totalScore": 4.8,
+    "reviewsCount": 285,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 216,
+    "title": "Warung Kopi Duren",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Cimahi",
+    "totalScore": 4.8,
+    "reviewsCount": 462,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 217,
+    "title": "Roempi Coffee Cimahi",
+    "categoryName": "Kafe",
+    "city": "Kota Cimahi",
+    "totalScore": 4.7,
+    "reviewsCount": 148,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 218,
+    "title": "Wizzmie Cimahi",
+    "categoryName": "Restoran Mie",
+    "city": "Kota Cimahi",
+    "totalScore": 4.7,
+    "reviewsCount": 5917,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 219,
+    "title": "Milkyverse Cimahi",
+    "categoryName": "Taman bermain",
+    "city": "Kota Cimahi",
+    "totalScore": 4.4,
+    "reviewsCount": 203,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 220,
+    "title": "Ramayana Cimahi",
+    "categoryName": "Toko Pakaian",
+    "city": "Kota Cimahi",
+    "totalScore": 4.3,
+    "reviewsCount": 3297,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 221,
+    "title": "Ganesha Operation Cimahi",
+    "categoryName": "Pusat Belajar",
+    "city": "Kota Cimahi",
+    "totalScore": 5,
+    "reviewsCount": 454,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 222,
+    "title": "MINISO CIMAHI OFFICIAL STORE",
+    "categoryName": "Pusat Perbelanjaan",
+    "city": "Kota Cimahi",
+    "totalScore": 4.7,
+    "reviewsCount": 189,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 223,
+    "title": "Rabbani Cimahi",
+    "categoryName": "Toko Pakaian",
+    "city": "Kota Cimahi",
+    "totalScore": 4.6,
+    "reviewsCount": 1019,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 224,
+    "title": "KiFC Photo Studio Cimahi",
+    "categoryName": "Studio Fotografi",
+    "city": "Kota Cimahi",
+    "totalScore": 4.7,
+    "reviewsCount": 1589,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 225,
+    "title": "RM. Ibu Haji Cijantung (IHC) ASLI Purwakarta",
+    "categoryName": "Restoran Sunda",
+    "city": "Kota Cimahi",
+    "totalScore": 4.3,
+    "reviewsCount": 1588,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 226,
+    "title": "Baso Laswi Cimahi",
+    "categoryName": "Restoran",
+    "city": "Kota Cimahi",
+    "totalScore": 4.8,
+    "reviewsCount": 331,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 227,
+    "title": "Sentra Ikan Hias",
+    "categoryName": "Pasar",
+    "city": "Kota Cimahi",
+    "totalScore": 4.7,
+    "reviewsCount": 187,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 228,
+    "title": "BCA KCP Cimahi",
+    "categoryName": "Bank",
+    "city": "Kota Cimahi",
+    "totalScore": 3.9,
+    "reviewsCount": 166,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 229,
+    "title": "Bank Mandiri",
+    "categoryName": "Bank",
+    "city": "Kota Cimahi",
+    "totalScore": 4.7,
+    "reviewsCount": 1120,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 230,
+    "title": "Chita tour and travel",
+    "categoryName": "Biro Perjalanan dan Wisata",
+    "city": "Kota Cimahi",
+    "totalScore": 5,
+    "reviewsCount": 192,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 231,
+    "title": "Cenghar Kopi",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Cimahi",
+    "totalScore": 4.4,
+    "reviewsCount": 2539,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 232,
+    "title": "Bento Kopi Cimahi",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Cimahi",
+    "totalScore": 4.5,
+    "reviewsCount": 805,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 233,
+    "title": "British American Tobacco (BAT)",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Cirebon",
+    "totalScore": 4.6,
+    "reviewsCount": 3040,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 234,
+    "title": "Alun-Alun Kejaksan Kota Cirebon",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Cirebon",
+    "totalScore": 4.5,
+    "reviewsCount": 17345,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 235,
+    "title": "Kalijaga",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Cirebon",
+    "totalScore": 4.4,
+    "reviewsCount": 105,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 236,
+    "title": "Taman Wisata Goa Sunyaragi Cirebon",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Cirebon",
+    "totalScore": 4.4,
+    "reviewsCount": 12841,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 237,
+    "title": "Petilasan Sunan Kalijaga",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Cirebon",
+    "totalScore": 4.6,
+    "reviewsCount": 893,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 238,
+    "title": "Pantai Kejawanan Kota Cirebon",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Cirebon",
+    "totalScore": 4.1,
+    "reviewsCount": 5601,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 239,
+    "title": "Ki Gede Pedati",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Cirebon",
+    "totalScore": 4.6,
+    "reviewsCount": 113,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 240,
+    "title": "Keraton Kasepuhan",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Cirebon",
+    "totalScore": 4.5,
+    "reviewsCount": 17433,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 241,
+    "title": "Masjid Merah Panjunan",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Cirebon",
+    "totalScore": 4.7,
+    "reviewsCount": 1253,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 242,
+    "title": "Masjid Raya At-Taqwa Kota Cirebon",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Cirebon",
+    "totalScore": 4.8,
+    "reviewsCount": 12684,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 243,
+    "title": "Cirebon Waterland Ade Irma Suryani",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Cirebon",
+    "totalScore": 4.1,
+    "reviewsCount": 7620,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 244,
+    "title": "Keraton Kacirebonan",
+    "categoryName": "Tempat acara",
+    "city": "Kota Cirebon",
+    "totalScore": 4.6,
+    "reviewsCount": 2282,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 245,
+    "title": "Penggung",
+    "categoryName": "Restoran",
+    "city": "Kota Cirebon",
+    "totalScore": 4.7,
+    "reviewsCount": 123,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 246,
+    "title": "Rengganis rumah buku & kopi",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Cirebon",
+    "totalScore": 4.8,
+    "reviewsCount": 207,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 247,
+    "title": "Alfamart Sudirman-Cirebon",
+    "categoryName": "Minimarket",
+    "city": "Kota Cirebon",
+    "totalScore": 4.1,
+    "reviewsCount": 143,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 248,
+    "title": "Gedung Negara Cirebon",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kota Cirebon",
+    "totalScore": 4.6,
+    "reviewsCount": 345,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 249,
+    "title": "RedDoorz near Kejaksan Station Cirebon",
+    "categoryName": "Hotel",
+    "city": "Kota Cirebon",
+    "totalScore": 4,
+    "reviewsCount": 137,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 250,
+    "title": "Ini Kopi Ulon",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Cirebon",
+    "totalScore": 4.8,
+    "reviewsCount": 403,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 251,
+    "title": "My Story Cafe, Bistro & Social House",
+    "categoryName": "Kafe",
+    "city": "Kota Cirebon",
+    "totalScore": 4.5,
+    "reviewsCount": 1306,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 252,
+    "title": "Indomaret Mayor Sastra Atmadja",
+    "categoryName": "Minimarket",
+    "city": "Kota Cirebon",
+    "totalScore": 4.4,
+    "reviewsCount": 181,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 253,
+    "title": "Terajeh Coffee and Steak House",
+    "categoryName": "Kedai Kopi",
+    "city": "Kota Cirebon",
+    "totalScore": 4.5,
+    "reviewsCount": 1359,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 254,
+    "title": "Aethernic Clinic Cirebon",
+    "categoryName": "Klinik Perawatan Kulit",
+    "city": "Kota Cirebon",
+    "totalScore": 5,
+    "reviewsCount": 354,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 255,
+    "title": "Nobu Bank Cirebon",
+    "categoryName": "Bank",
+    "city": "Kota Cirebon",
+    "totalScore": 4.9,
+    "reviewsCount": 155,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 256,
+    "title": "GADO-GADO AYAM MANG DJUM CIREBON",
+    "categoryName": "Restoran Indonesia",
+    "city": "Kota Cirebon",
+    "totalScore": 4.5,
+    "reviewsCount": 373,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 257,
+    "title": "Rumah Kue Nyonya Lani",
+    "categoryName": "Toko Kue",
+    "city": "Kota Cirebon",
+    "totalScore": 4.4,
+    "reviewsCount": 272,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 258,
+    "title": "Bakso Rudal Mas Kemet",
+    "categoryName": "Restoran Bakso",
+    "city": "Kota Cirebon",
+    "totalScore": 4.3,
+    "reviewsCount": 167,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 259,
+    "title": "Serabi Pulasaren",
+    "categoryName": "Pujasera",
+    "city": "Kota Cirebon",
+    "totalScore": 4.5,
+    "reviewsCount": 220,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 260,
+    "title": "Soto Ayam Semarang - Pulasaren",
+    "categoryName": "Restoran Jawa",
+    "city": "Kota Cirebon",
+    "totalScore": 4.5,
+    "reviewsCount": 298,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 261,
+    "title": "Baso Sidodadi Mas Joni",
+    "categoryName": "Restoran Bakso",
+    "city": "Kota Cirebon",
+    "totalScore": 4.6,
+    "reviewsCount": 639,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 262,
+    "title": "EO Fun games & City tour",
+    "categoryName": "Kantor Perusahaan",
+    "city": "Kota Cirebon",
+    "totalScore": 5,
+    "reviewsCount": 161,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 263,
+    "title": "Andalus City Cirebon",
+    "categoryName": "Pusat Bisnis",
+    "city": "Kota Cirebon",
+    "totalScore": 4.6,
+    "reviewsCount": 266,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 264,
+    "title": "Ini Kopi Ulon Ciremai Raya",
+    "categoryName": "Kafe",
+    "city": "Kota Cirebon",
+    "totalScore": 4.8,
+    "reviewsCount": 485,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 265,
+    "title": "Wizzmie Cirebon kesambi",
+    "categoryName": "Restoran",
+    "city": "Kota Cirebon",
+    "totalScore": 4.8,
+    "reviewsCount": 14525,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 266,
+    "title": "Richeese Factory Ciremai Raya",
+    "categoryName": "Restoran",
+    "city": "Kota Cirebon",
+    "totalScore": 4.5,
+    "reviewsCount": 621,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 267,
+    "title": "Curug Cipanas",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Bandung Barat",
+    "totalScore": 4.1,
+    "reviewsCount": 6618,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 268,
+    "title": "Gedung Sate",
+    "categoryName": "Bangunan Bersejarah",
+    "city": "Kota Bandung",
+    "totalScore": 4.7,
+    "reviewsCount": 8532,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 269,
+    "title": "Braga CityWalk",
+    "categoryName": "Pusat Perbelanjaan",
+    "city": "Kota Bandung",
+    "totalScore": 4.5,
+    "reviewsCount": 25349,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 270,
+    "title": "Saung Angklung Udjo",
+    "categoryName": "Pusat Kesenian",
+    "city": "Kota Bandung",
+    "totalScore": 4.7,
+    "reviewsCount": 17163,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 271,
+    "title": "Orchid Forest Cikole",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Bandung Barat",
+    "totalScore": 4.6,
+    "reviewsCount": 34008,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 272,
+    "title": "Farm House Susu Lembang",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Bandung Barat",
+    "totalScore": 4.4,
+    "reviewsCount": 67612,
+    "cluster": 2,
+    "clusterName": "Populer Tinggi"
+  },
+  {
+    "id": 273,
+    "title": "Sunrise Point Cukul",
+    "categoryName": "Titik Pemandangan",
+    "city": "Kabupaten Bandung",
+    "totalScore": 4.7,
+    "reviewsCount": 5066,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 274,
+    "title": "Trans Studio Bandung",
+    "categoryName": "Taman Hiburan",
+    "city": "Kota Bandung",
+    "totalScore": 4.6,
+    "reviewsCount": 82891,
+    "cluster": 2,
+    "clusterName": "Populer Tinggi"
+  },
+  {
+    "id": 275,
+    "title": "Museum Pendidikan Nasional Universitas Pendidikan Indonesia",
+    "categoryName": "Museum Sejarah",
+    "city": "Kota Bandung",
+    "totalScore": 4.7,
+    "reviewsCount": 1208,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 276,
+    "title": "Museum Sri Baduga",
+    "categoryName": "Museum",
+    "city": "Kota Bandung",
+    "totalScore": 4.5,
+    "reviewsCount": 4684,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 277,
+    "title": "Floating Market Lembang",
+    "categoryName": "Pasar Apung",
+    "city": "Kabupaten Bandung Barat",
+    "totalScore": 4.5,
+    "reviewsCount": 55872,
+    "cluster": 2,
+    "clusterName": "Populer Tinggi"
+  },
+  {
+    "id": 278,
+    "title": "Mountain View Golf Club",
+    "categoryName": "Lapangan Golf",
+    "city": "Kabupaten Bandung",
+    "totalScore": 4.5,
+    "reviewsCount": 1695,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 279,
+    "title": "Masjid PUSDAI Jawa Barat",
+    "categoryName": "Masjid",
+    "city": "Kota Bandung",
+    "totalScore": 4.7,
+    "reviewsCount": 14592,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 280,
+    "title": "Nu Art Studio",
+    "categoryName": "Museum",
+    "city": "Bandung",
+    "totalScore": 4.9,
+    "reviewsCount": 1544,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 281,
+    "title": "Masjid Raya Al-Jabbar",
+    "categoryName": "Masjid",
+    "city": "Kota Bandung",
+    "totalScore": 4.7,
+    "reviewsCount": 17192,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 282,
+    "title": "Kiara Artha Park",
+    "categoryName": "Taman Kota",
+    "city": "Kota Bandung",
+    "totalScore": 4.6,
+    "reviewsCount": 16225,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 283,
+    "title": "Museum Pos Indonesia",
+    "categoryName": "Museum",
+    "city": "Kota Bandung",
+    "totalScore": 4.6,
+    "reviewsCount": 1358,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 284,
+    "title": "Lembang Park & Zoo",
+    "categoryName": "Kebun Binatang",
+    "city": "Kabupaten Bandung Barat",
+    "totalScore": 4.7,
+    "reviewsCount": 26107,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 285,
+    "title": "Panama Park 825",
+    "categoryName": "Taman Bermain Dalam Ruangan",
+    "city": "Kota Bandung",
+    "totalScore": 4.6,
+    "reviewsCount": 3321,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 286,
+    "title": "Taman Hutan Raya Ir. H. Djuanda",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Bandung",
+    "totalScore": 4.6,
+    "reviewsCount": 21900,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 287,
+    "title": "Water Park Bandung Indah",
+    "categoryName": "Taman Rekreasi Air",
+    "city": "Kabupaten Bandung",
+    "totalScore": 4,
+    "reviewsCount": 2045,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 288,
+    "title": "Dago Dreampark",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Bandung Barat",
+    "totalScore": 4.2,
+    "reviewsCount": 19831,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 289,
+    "title": "Glamping Lakeside Rancabali",
+    "categoryName": "Hotel Resor",
+    "city": "Kabupaten Bandung",
+    "totalScore": 4.5,
+    "reviewsCount": 18624,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 290,
+    "title": "Teras Cikapundung BBWS",
+    "categoryName": "Taman Kota",
+    "city": "Kota Bandung",
+    "totalScore": 4.3,
+    "reviewsCount": 8854,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 291,
+    "title": "Taman Lalu Lintas Ade Irma Suryani Nasution",
+    "categoryName": "Taman Hiburan",
+    "city": "Kota Bandung",
+    "totalScore": 4.4,
+    "reviewsCount": 13254,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 292,
+    "title": "Kota Mini Lembang",
+    "categoryName": "Pusat Rekreasi",
+    "city": "Kabupaten Bandung Barat",
+    "totalScore": 4.4,
+    "reviewsCount": 3751,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 293,
+    "title": "Panghegar Waterboom Bandung",
+    "categoryName": "Taman Rekreasi Air",
+    "city": "Kota Bandung",
+    "totalScore": 4.4,
+    "reviewsCount": 5756,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 294,
+    "title": "Taman Film",
+    "categoryName": "Taman Kota",
+    "city": "Kota Bandung",
+    "totalScore": 4.4,
+    "reviewsCount": 4500,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 295,
+    "title": "Masjid Raya Bandung",
+    "categoryName": "Masjid",
+    "city": "Kota Bandung",
+    "totalScore": 4.6,
+    "reviewsCount": 9258,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 296,
+    "title": "Alun-alun Kota Bandung",
+    "categoryName": "Taman Kota",
+    "city": "Kota Bandung",
+    "totalScore": 4.6,
+    "reviewsCount": 118786,
+    "cluster": 2,
+    "clusterName": "Populer Tinggi"
+  },
+  {
+    "id": 297,
+    "title": "Kebun Binatang Bandung",
+    "categoryName": "Kebun Binatang",
+    "city": "Kota Bandung",
+    "totalScore": 4.2,
+    "reviewsCount": 22773,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 298,
+    "title": "Curug Tilu Leuwi Opat",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Bandung Barat",
+    "totalScore": 4.5,
+    "reviewsCount": 1992,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 299,
+    "title": "Lawangwangi Creative Space",
+    "categoryName": "Galeri Seni",
+    "city": "Kabupaten Bandung Barat",
+    "totalScore": 4.5,
+    "reviewsCount": 4493,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 300,
+    "title": "Taman Budaya Jawa Barat",
+    "categoryName": "Teater Seni Pertunjukan",
+    "city": "Kota Bandung",
+    "totalScore": 4.4,
+    "reviewsCount": 759,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 301,
+    "title": "Curug Aseupan",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Bandung Barat",
+    "totalScore": 4.7,
+    "reviewsCount": 363,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 302,
+    "title": "CURUG BATU TEMPLEK CISANGGARUNG",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Bandung",
+    "totalScore": 4.5,
+    "reviewsCount": 627,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 303,
+    "title": "Air Terjun Anom",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Bandung Barat",
+    "totalScore": 4.6,
+    "reviewsCount": 325,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 304,
+    "title": "Jendela Alam",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Bandung Barat",
+    "totalScore": 4.5,
+    "reviewsCount": 2862,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 305,
+    "title": "Gereja Katedral Bandung, Santo Petrus",
+    "categoryName": "Katedral Katolik",
+    "city": "Kota Bandung",
+    "totalScore": 4.8,
+    "reviewsCount": 5284,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 306,
+    "title": "Museum Mandala Wangsit Siliwangi",
+    "categoryName": "Museum Angkatan Bersenjata",
+    "city": "Kota Bandung",
+    "totalScore": 4.5,
+    "reviewsCount": 1154,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 307,
+    "title": "Pesona Nirwana Waterpark & Cottages / Resort",
+    "categoryName": "Taman Rekreasi Air",
+    "city": "Kabupaten Bandung",
+    "totalScore": 4.3,
+    "reviewsCount": 2493,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 308,
+    "title": "Kawasan Punclut",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Bandung Barat",
+    "totalScore": 4.6,
+    "reviewsCount": 5370,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 309,
+    "title": "Rainbow Garden Lembang",
+    "categoryName": "Taman",
+    "city": "Kabupaten Bandung Barat",
+    "totalScore": 4.6,
+    "reviewsCount": 5242,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 310,
+    "title": "Taman Kupu-Kupu Cihanjuang",
+    "categoryName": "Gedung Pernikahan",
+    "city": "Kabupaten Bandung Barat",
+    "totalScore": 4.2,
+    "reviewsCount": 1751,
+    "cluster": 0,
+    "clusterName": "Populer Sedang"
+  },
+  {
+    "id": 311,
+    "title": "Taman Balai Kota Bandung",
+    "categoryName": "Taman Kota",
+    "city": "Kota Bandung",
+    "totalScore": 4.6,
+    "reviewsCount": 11840,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  },
+  {
+    "id": 312,
+    "title": "Sudut Pandang Bandung",
+    "categoryName": "Tujuan Wisata",
+    "city": "Kabupaten Bandung Barat",
+    "totalScore": 4.6,
+    "reviewsCount": 3281,
+    "cluster": 1,
+    "clusterName": "Cluster Khusus/Niche"
+  }
+]
