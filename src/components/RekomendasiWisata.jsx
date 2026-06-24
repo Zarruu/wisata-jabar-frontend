@@ -30,10 +30,10 @@ export default function RekomendasiWisata() {
     <div className="rekomendasi-wrapper">
       {/* Hero Section */}
       <div className="hero-section">
-        <h2>Eksplorasi Keindahan Jawa Barat</h2>
-        <p>Temukan destinasi wisata yang paling pas dengan preferensi liburanmu. Dari yang paling viral hingga surga tersembunyi.</p>
+        <h2>Eksplorasi Keindahan Pulau Jawa</h2>
+        <p>Temukan destinasi wisata terbaik di Pulau Jawa yang paling pas dengan preferensi liburanmu. Dari yang paling viral hingga surga tersembunyi.</p>
         
-        {/* Kotak Filter yang Diperbarui */}
+        {/* Kotak Filter */}
         <div className="filter-modern" style={{ flexWrap: 'wrap', justifyContent: 'center' }}>
           <div className="filter-group">
             <label>Suasana Liburan: </label>
@@ -58,7 +58,7 @@ export default function RekomendasiWisata() {
       {/* Hasil Rekomendasi */}
       <div className="hasil-section">
         <h3 className="section-title">
-          Menampilkan {wisataDitampilkan.length} Rekomendasi di {kota === 'Semua Kota' ? 'Jawa Barat' : kota}
+          Menampilkan {wisataDitampilkan.length} Rekomendasi di {kota === 'Semua Kota' ? 'Pulau Jawa' : kota}
         </h3>
         
         {wisataDitampilkan.length === 0 ? (

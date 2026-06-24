@@ -13,22 +13,22 @@ export default function Dashboard() {
       <div className="dashboard-hero">
         <div className="hero-badge">📊 Data Mining Project</div>
         <h2>Dashboard Metodologi</h2>
-        <p>Analisis klasterisasi destinasi wisata Jawa Barat menggunakan algoritma K-Means Clustering</p>
+        <p>Analisis klasterisasi destinasi wisata Pulau Jawa menggunakan algoritma K-Means Clustering</p>
         
         {/* Stats Overview */}
         <div className="stats-overview">
           <div className="stat-pill">
             <span className="stat-icon">📁</span>
             <div className="stat-info">
-              <span className="stat-number">1.491</span>
+              <span className="stat-number">1.210</span>
               <span className="stat-label">Data Mentah</span>
             </div>
           </div>
           <div className="stat-pill">
-            <span className="stat-icon">✅</span>
+            <span className="stat-icon">🗺️</span>
             <div className="stat-info">
-              <span className="stat-number">1.175</span>
-              <span className="stat-label">Data Bersih</span>
+              <span className="stat-number">946</span>
+              <span className="stat-label">Data Pulau Jawa</span>
             </div>
           </div>
           <div className="stat-pill">
@@ -41,7 +41,7 @@ export default function Dashboard() {
           <div className="stat-pill">
             <span className="stat-icon">📈</span>
             <div className="stat-info">
-              <span className="stat-number">0.488</span>
+              <span className="stat-number">0.463</span>
               <span className="stat-label">Silhouette</span>
             </div>
           </div>
@@ -72,22 +72,22 @@ export default function Dashboard() {
               <h4>📋 Gambaran Dataset</h4>
               <div className="dataset-comparison">
                 <div className="dataset-box before">
-                  <div className="dataset-label">Data Sebelum Cleaning</div>
-                  <div className="dataset-value">1.491</div>
-                  <div className="dataset-desc">Total baris data mentah dari scraping Google Maps</div>
+                  <div className="dataset-label">Data Mentah (Seluruh Indonesia)</div>
+                  <div className="dataset-value">1.210</div>
+                  <div className="dataset-desc">Total baris data mentah dari scraping Google Maps seluruh Indonesia</div>
                 </div>
                 <div className="dataset-arrow">
                   <span>→</span>
-                  <small>cleaning</small>
+                  <small>filter</small>
                 </div>
                 <div className="dataset-box after">
-                  <div className="dataset-label">Data Setelah Cleaning</div>
-                  <div className="dataset-value">1.175</div>
-                  <div className="dataset-desc">Data bersih siap digunakan untuk pemodelan</div>
+                  <div className="dataset-label">Data Pulau Jawa (Bersih)</div>
+                  <div className="dataset-value">946</div>
+                  <div className="dataset-desc">Data destinasi wisata khusus Pulau Jawa, siap digunakan untuk pemodelan</div>
                 </div>
               </div>
               <div className="dataset-reduction">
-                <span>📉 Data yang dihapus: <strong>316 baris</strong> (21.2%)</span>
+                <span>📉 Data di luar Pulau Jawa yang dihapus: <strong>264 baris</strong> (21.8%) — termasuk data dari Bali, Kalimantan, dll.</span>
               </div>
             </div>
 
@@ -121,6 +121,13 @@ export default function Dashboard() {
                   <div className="prep-detail">
                     <h5>Filter Data (reviewsCount &gt; 100)</h5>
                     <p>Mengambil hanya destinasi wisata yang memiliki jumlah ulasan lebih dari 100 untuk memastikan data yang dianalisis memiliki tingkat relevansi dan kepercayaan yang memadai.</p>
+                  </div>
+                </div>
+                <div className="prep-step">
+                  <div className="prep-icon check">🗺️</div>
+                  <div className="prep-detail">
+                    <h5>Filter Wilayah Pulau Jawa</h5>
+                    <p>Menghapus data destinasi di luar Pulau Jawa (Bali, Kalimantan, dll.) sehingga analisis terfokus pada wilayah Jawa: Jawa Barat, Jawa Tengah, Jawa Timur, DKI Jakarta, DI Yogyakarta, dan Banten.</p>
                   </div>
                 </div>
               </div>
@@ -197,7 +204,7 @@ export default function Dashboard() {
                   <div className="flow-num">3</div>
                   <div className="flow-text">
                     <strong>Iterasi & Assignment</strong>
-                    <p>Setiap data dihitung jaraknya ke centroid, lalu di-assign ke klaster terdekat secara iteratif.</p>
+                    <p>Setiap data dihitung jaraknya ke centroid, lalu di-assign ke klaster terdekat secara iteratif hingga konvergen pada iterasi ke-8.</p>
                   </div>
                 </div>
                 <div className="flow-connector"></div>
@@ -205,7 +212,7 @@ export default function Dashboard() {
                   <div className="flow-num">4</div>
                   <div className="flow-text">
                     <strong>Konvergensi</strong>
-                    <p>Proses berhenti ketika centroid tidak lagi berubah secara signifikan (konvergen).</p>
+                    <p>Proses berhenti ketika centroid tidak lagi berubah secara signifikan (konvergen pada iterasi ke-8).</p>
                   </div>
                 </div>
               </div>
@@ -235,15 +242,15 @@ export default function Dashboard() {
               <div className="silhouette-display">
                 <div className="score-circle">
                   <div className="score-ring">
-                    <span className="score-value">0.488</span>
+                    <span className="score-value">0.463</span>
                     <span className="score-max">/ 1.0</span>
                   </div>
                 </div>
                 <div className="score-explanation">
                   <div className="score-bar-container">
                     <div className="score-bar-bg">
-                      <div className="score-bar-fill" style={{width: '48.8%'}}></div>
-                      <div className="score-bar-marker" style={{left: '48.8%'}}></div>
+                      <div className="score-bar-fill" style={{width: '46.3%'}}></div>
+                      <div className="score-bar-marker" style={{left: '46.3%'}}></div>
                     </div>
                     <div className="score-bar-labels">
                       <span>0 (Buruk)</span>
@@ -252,8 +259,8 @@ export default function Dashboard() {
                     </div>
                   </div>
                   <p className="score-interpretation">
-                    <strong>Interpretasi:</strong> Nilai 0.488 menunjukkan bahwa klaster yang terbentuk memiliki pemisahan yang <strong>cukup baik</strong>. 
-                    Setiap data point cenderung lebih dekat ke klasternya sendiri dibanding klaster lain, yang berarti pengelompokan cukup bermakna.
+                    <strong>Interpretasi:</strong> Nilai 0.463 menunjukkan bahwa klaster yang terbentuk memiliki pemisahan yang <strong>cukup baik</strong>. 
+                    Setiap data point cenderung lebih dekat ke klasternya sendiri dibanding klaster lain, yang berarti pengelompokan cukup bermakna untuk menghasilkan rekomendasi wisata.
                   </p>
                 </div>
               </div>
@@ -274,21 +281,21 @@ export default function Dashboard() {
                   </div>
                   <div className="cluster-stats-row">
                     <div className="cs-item">
-                      <span className="cs-num">172</span>
+                      <span className="cs-num">391</span>
                       <span className="cs-label">Destinasi</span>
                     </div>
                     <div className="cs-item">
-                      <span className="cs-num">⭐ 4.73</span>
+                      <span className="cs-num">⭐ 4.71</span>
                       <span className="cs-label">Avg Rating</span>
                     </div>
                     <div className="cs-item">
-                      <span className="cs-num">2.495</span>
+                      <span className="cs-num">4.483</span>
                       <span className="cs-label">Avg Ulasan</span>
                     </div>
                   </div>
                   <p className="cluster-desc">
-                    Destinasi yang belum terlalu padat pengunjung, namun memberikan kepuasan nyaris sempurna. 
-                    Cocok untuk wisatawan yang mencari ketenangan dan spot estetik baru.
+                    Destinasi dengan rating tinggi namun jumlah ulasan moderat. Tempat-tempat ini menawarkan pengalaman berkualitas tinggi 
+                    dan belum terlalu padat pengunjung — cocok untuk wisatawan yang mencari ketenangan dan spot estetik baru di Pulau Jawa.
                   </p>
                 </div>
 
@@ -302,21 +309,21 @@ export default function Dashboard() {
                   </div>
                   <div className="cluster-stats-row">
                     <div className="cs-item">
-                      <span className="cs-num">135</span>
+                      <span className="cs-num">532</span>
                       <span className="cs-label">Destinasi</span>
                     </div>
                     <div className="cs-item">
-                      <span className="cs-num">⭐ 4.39</span>
+                      <span className="cs-num">⭐ 4.36</span>
                       <span className="cs-label">Avg Rating</span>
                     </div>
                     <div className="cs-item">
-                      <span className="cs-num">3.334</span>
+                      <span className="cs-num">3.967</span>
                       <span className="cs-label">Avg Ulasan</span>
                     </div>
                   </div>
                   <p className="cluster-desc">
-                    Tempat wisata standar yang populer dan cukup ramai. Cocok untuk rombongan keluarga atau study tour 
-                    yang mencari fasilitas lengkap dan terjangkau.
+                    Tempat wisata standar yang populer dan cukup ramai dengan rating yang solid. Kelompok terbesar dengan 532 destinasi — 
+                    cocok untuk rombongan keluarga atau study tour yang mencari fasilitas lengkap dan terjangkau di berbagai kota Pulau Jawa.
                   </p>
                 </div>
 
@@ -330,23 +337,24 @@ export default function Dashboard() {
                   </div>
                   <div className="cluster-stats-row">
                     <div className="cs-item">
-                      <span className="cs-num">5</span>
+                      <span className="cs-num">23</span>
                       <span className="cs-label">Destinasi</span>
                     </div>
                     <div className="cs-item">
-                      <span className="cs-num">⭐ 4.56</span>
+                      <span className="cs-num">⭐ 4.62</span>
                       <span className="cs-label">Avg Rating</span>
                     </div>
                     <div className="cs-item">
-                      <span className="cs-num">85.860</span>
+                      <span className="cs-num">80.081</span>
                       <span className="cs-label">Avg Ulasan</span>
                     </div>
                   </div>
                   <p className="cluster-desc">
-                    Ujung tombak pariwisata Jawa Barat dengan tingkat kunjungan skala nasional. 
-                    Sangat direkomendasikan untuk turis luar daerah yang baru pertama kali berkunjung.
+                    Ujung tombak pariwisata Pulau Jawa dengan rata-rata 80 ribu+ ulasan per destinasi. Hanya 23 destinasi elite dengan 
+                    tingkat kunjungan skala nasional — sangat direkomendasikan untuk turis yang baru pertama kali berlibur ke Pulau Jawa.
                   </p>
                 </div>
+
 
               </div>
             </div>
@@ -356,8 +364,8 @@ export default function Dashboard() {
               <h4>📈 Visualisasi Persebaran Klaster</h4>
               <div className="viz-container">
                 <img 
-                  src="/kmeans_jabar.png" 
-                  alt="Grafik K-Means Jawa Barat" 
+                  src="/kmeans_pulau_jawa.png" 
+                  alt="Grafik K-Means Wisata Pulau Jawa" 
                   className="viz-image"
                 />
               </div>

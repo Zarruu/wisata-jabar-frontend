@@ -1,0 +1,30 @@
+{
+  "totalRaw": 1210,
+  "totalJawa": 946,
+  "totalClean": 946,
+  "silhouetteScore": 0.4632,
+  "inertia": 664.705,
+  "clusters": [
+    {
+      "cluster": 0,
+      "count": 532,
+      "avgScore": "4.36",
+      "avgReviews": 3967,
+      "name": "Populer Sedang"
+    },
+    {
+      "cluster": 1,
+      "count": 391,
+      "avgScore": "4.71",
+      "avgReviews": 4483,
+      "name": "Cluster Khusus/Niche"
+    },
+    {
+      "cluster": 2,
+      "count": 23,
+      "avgScore": "4.62",
+      "avgReviews": 80081,
+      "name": "Populer Tinggi"
+    }
+  ]
+}
